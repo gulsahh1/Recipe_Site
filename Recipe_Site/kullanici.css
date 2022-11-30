@@ -1,0 +1,89 @@
+﻿.auto-style1 {
+    width: 700px;
+    height: 150px;
+    margin-left: 300px;
+    background-color: #b18bc8;
+}
+
+.bosluk {
+    margin-left: 300px;
+    width: 700px;
+    height: 20px;
+}
+
+.menu {
+    margin-left: 300px;
+    width: 700px;
+    height: 35px;
+    background-color: #fff;
+    border: none;
+}
+
+.bosluk2 {
+    margin-left: 300px;
+    width: 700px;
+    height: 20px;
+}
+
+.ana {
+    margin-left: 300px;
+    width: 700px;
+    height: 300px;
+}
+
+.kategori {
+    width: 200px;
+    height: auto;
+    float: left;
+    background-color: #b18bc8;
+}
+
+.desc {
+    margin-left: 50px;
+    width: 450px;
+    height: auto;
+    background-color: #b18bc8;
+    float: left;
+}
+
+.auto-style2 {
+    width: 100%;
+    border: none;
+}
+
+.auto-style3 {
+    text-align: center;
+    border: none;
+    background-color: #deb1f3;
+}
+
+.data {
+    border: 1px solid #000000;
+}
+
+a:link {
+    text-decoration: none;
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    font-style: normal;
+}
+
+a:hover {
+    background-color: #b18bc8;
+    font-size: 16px;
+}
+
+.br {
+    border-bottom: 3px groove #414040;
+}
+
+.tdstyle {
+    border-bottom: 2px inset #deb1f3;
+}
+
+.iletisim {
+    border: 2px solid #456879;
+    border-radius: 10px;
+    height: 22px;
+    width: 230px;
+}
